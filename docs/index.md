@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+## Kinkkukiusaus
+- 1pss (1kg) Peruna-sipulisekoitus
+- 200g kinkkua
+- 2prk (à 2,5dl) Pippurikermaa
+- ½tl suolaa
+- Mustapippuria myllystä oman maun mukaan
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+#### 1. Sekoita perunat, kinkku sekä mausteet voidellussa uunivuuassa
+#### 2. Kaada päälle kerma
+#### 3. Laita uunin keskiosaan, 225C ja anna olla vähintään 1h uunissa. Valmista kun perunat ovat pehmennet kunnolla ja vuoka on päätä ruskistunut mukavasti
+#### 4. Uunin jälkeen anna vetäytyä vähintään 15min ennen tarjoilua
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+> Vinkki: Lisää joukkoon pussillinen sinihomejuusto murua antamaan lisää makua!
