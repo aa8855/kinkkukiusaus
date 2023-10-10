@@ -2,6 +2,7 @@ site_name: Kinkkukiusaus
 site_url: https://kinkku.kiusa.us/
 repo_name: aa8855/kinkkukiusaus
 repo_url: https://github.com/aa8855/kinkkukiusaus/
+site_description: Resepti
 theme: 
   name: simple-blog
   components:
