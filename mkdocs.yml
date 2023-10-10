@@ -1,3 +1,5 @@
-site_name: My Docs
+site_name: Kinkkukiusaus
+title: Kinkkukiusaus
 site_url: https://kinkku.kiusa.us/
+repo_url: https://github.com/aa8855/kinkkukiusaus
 theme: simple-blog
